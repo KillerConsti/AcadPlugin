@@ -1,0 +1,247 @@
+﻿  acrxEntryPoint.cpp
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(46,30): error C3646: "m_module": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(46,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(79,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(80,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(81,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(82,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(83,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(98,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(99,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(104,13): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(104,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(105,42): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(105,19): error C3861: "AfxInitExtensionModule": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(109,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(110,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(112,38): error C2039: "AfxGetResourceHandle" ist kein Member von "`global namespace'".
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(112,38): error C3861: "AfxGetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(115,22): error C2039: "m_module" ist kein Member von "CAcExtensionModule".
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(36,7):
+      Siehe Deklaration von "CAcExtensionModule"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(115,9): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(116,22): error C2039: "m_module" ist kein Member von "CAcExtensionModule".
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(36,7):
+      Siehe Deklaration von "CAcExtensionModule"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(116,9): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(117,15): error C2039: "m_module" ist kein Member von "CAcExtensionModule".
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(36,7):
+      Siehe Deklaration von "CAcExtensionModule"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(118,13): error C2061: Syntaxfehler: Bezeichner "CDynLinkLibrary"
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(133,32): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(133,9): error C3861: "AfxTermExtensionModule": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(196,34): error C3861: "AfxGetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(200,5): error C3861: "AfxSetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(205,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(206,5): error C3861: "AfxSetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(202,23): error C2143: Syntaxfehler: Es fehlt ";" vor "<"
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(202,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(202,23): error C2059: Syntaxfehler: "<"
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(204,45): error C2061: Syntaxfehler: Bezeichner "AcTcCatalogItemArray"
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(832,22): error C2061: Syntaxfehler: Bezeichner "COleDataObject"
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(832,22):
+      der Vorlageninstanziierungskontext (der älteste zuerst) ist
+          C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(282,21):
+          beim Kompilieren der Klassenvorlage "AcadToolImpl"
+  
+  SimpleTool.cpp
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(46,30): error C3646: "m_module": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(46,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(79,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(80,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(81,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(82,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(83,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(98,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(99,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(104,13): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(104,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(105,42): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(105,19): error C3861: "AfxInitExtensionModule": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(109,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(110,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(112,38): error C2039: "AfxGetResourceHandle" ist kein Member von "`global namespace'".
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(112,38): error C3861: "AfxGetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(115,22): error C2039: "m_module" ist kein Member von "CAcExtensionModule".
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(36,7):
+      Siehe Deklaration von "CAcExtensionModule"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(115,9): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(116,22): error C2039: "m_module" ist kein Member von "CAcExtensionModule".
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(36,7):
+      Siehe Deklaration von "CAcExtensionModule"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(116,9): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(117,15): error C2039: "m_module" ist kein Member von "CAcExtensionModule".
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(36,7):
+      Siehe Deklaration von "CAcExtensionModule"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(118,13): error C2061: Syntaxfehler: Bezeichner "CDynLinkLibrary"
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(133,32): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(133,9): error C3861: "AfxTermExtensionModule": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(196,34): error C3861: "AfxGetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(200,5): error C3861: "AfxSetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(205,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(206,5): error C3861: "AfxSetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(202,23): error C2143: Syntaxfehler: Es fehlt ";" vor "<"
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(202,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(202,23): error C2059: Syntaxfehler: "<"
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(204,45): error C2061: Syntaxfehler: Bezeichner "AcTcCatalogItemArray"
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(832,22): error C2061: Syntaxfehler: Bezeichner "COleDataObject"
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(832,22):
+      der Vorlageninstanziierungskontext (der älteste zuerst) ist
+          C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcadToolImpl.h(282,21):
+          beim Kompilieren der Klassenvorlage "AcadToolImpl"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(174,2): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(195,2): error C2065: "CMenu": nichtdeklarierter Bezeichner
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(195,9): error C2065: "menu": nichtdeklarierter Bezeichner
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(195,20): error C2061: Syntaxfehler: Bezeichner "CMenu"
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(196,6): error C2065: "menu": nichtdeklarierter Bezeichner
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(198,3): error C2065: "menu": nichtdeklarierter Bezeichner
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(199,3): error C2065: "menu": nichtdeklarierter Bezeichner
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(200,3): error C2065: "menu": nichtdeklarierter Bezeichner
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(201,3): error C2065: "menu": nichtdeklarierter Bezeichner
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(203,9): error C2065: "menu": nichtdeklarierter Bezeichner
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(203,2): error C2541: "delete": Objekte, die keine Zeiger sind, können nicht gelöscht werden
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(213,6): error C2039: "AfxMessageBox" ist kein Member von "`global namespace'".
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(213,6): error C3861: "AfxMessageBox": Bezeichner wurde nicht gefunden.
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(215,6): error C2039: "AfxMessageBox" ist kein Member von "`global namespace'".
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(215,6): error C3861: "AfxMessageBox": Bezeichner wurde nicht gefunden.
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(217,6): error C2039: "AfxMessageBox" ist kein Member von "`global namespace'".
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(217,6): error C3861: "AfxMessageBox": Bezeichner wurde nicht gefunden.
+  SimpleToolPalette.cpp
+C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleToolPalette.cpp(23,10): error C1083: Datei (Include) kann nicht geöffnet werden: "afxdllx.h": No such file or directory
+  StdAfx.cpp
+  Code wird generiert...
