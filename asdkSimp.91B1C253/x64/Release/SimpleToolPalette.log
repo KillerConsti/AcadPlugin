@@ -1,0 +1,13 @@
+﻿  SimpleTool.cpp
+  SimpleToolPalette.cpp
+  StdAfx.cpp
+  acrxEntryPoint.cpp
+  DrawLines.cpp
+  customentittykistjig.cpp
+  movenrotate.cpp
+  rotateobject.cpp
+     Bibliothek "asdkSimp.91B1C253\x64\Release\asdkSimpleToolPalette.lib" und Objekt "asdkSimp.91B1C253\x64\Release\asdkSimpleToolPalette.exp" werden erstellt.
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+rxapi.lib(libinit.obj) : warning LNK4099: PDB "rxapi.pdb" wurde nicht mit "rxapi.lib(libinit.obj)" oder an "C:\Autodesk\rxapi.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  SimpleToolPalette.vcxproj -> C:\Autodesk\asdkSimpleToolPalette.arx

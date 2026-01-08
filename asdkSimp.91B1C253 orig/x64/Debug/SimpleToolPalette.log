@@ -1,0 +1,47 @@
+﻿  64 bit Processing .\SimpleToolPalette.idl
+  SimpleToolPalette.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\oaidl.idl
+  oaidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\objidl.idl
+  objidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\unknwn.idl
+  unknwn.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypes.idl
+  wtypes.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\basetsd.h
+  basetsd.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\guiddef.h
+  guiddef.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\ocidl.idl
+  ocidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\oleidl.idl
+  oleidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\servprov.idl
+  servprov.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\urlmon.idl
+  urlmon.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\msxml.idl
+  msxml.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\oaidl.acf
+  oaidl.acf
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\ocidl.acf
+  ocidl.acf
+  acrxEntryPoint.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\yvals_core.h(1892,1): error C1189: #error:  /RTCc rejects conformant code, so it is not supported by the C++ Standard Library. Either remove this compiler option, or define _ALLOW_RTCc_IN_STL to suppress this error.
+  (Quelldatei „acrxEntryPoint.cpp“ wird kompiliert)
+  
+  SimpleTool.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\yvals_core.h(1892,1): error C1189: #error:  /RTCc rejects conformant code, so it is not supported by the C++ Standard Library. Either remove this compiler option, or define _ALLOW_RTCc_IN_STL to suppress this error.
+  (Quelldatei „SimpleTool.cpp“ wird kompiliert)
+  
+  SimpleToolPalette.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\yvals_core.h(1892,1): error C1189: #error:  /RTCc rejects conformant code, so it is not supported by the C++ Standard Library. Either remove this compiler option, or define _ALLOW_RTCc_IN_STL to suppress this error.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+  StdAfx.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\yvals_core.h(1892,1): error C1189: #error:  /RTCc rejects conformant code, so it is not supported by the C++ Standard Library. Either remove this compiler option, or define _ALLOW_RTCc_IN_STL to suppress this error.
+  (Quelldatei „StdAfx.cpp“ wird kompiliert)
+  
+  Code wird generiert...

@@ -242,6 +242,372 @@ C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\
 C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(217,6): error C2039: "AfxMessageBox" ist kein Member von "`global namespace'".
 C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleTool.cpp(217,6): error C3861: "AfxMessageBox": Bezeichner wurde nicht gefunden.
   SimpleToolPalette.cpp
-C:\Users\miste\Downloads\autocad sdk\CDROM1\samples\editor\SimpleToolPalette_dg\SimpleToolPalette.cpp(23,10): error C1083: Datei (Include) kann nicht geöffnet werden: "afxdllx.h": No such file or directory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdllx.h(58,3): error C2065: "AFX_MODULE_STATE": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdllx.h(58,21): error C2065: "pModuleState": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdllx.h(58,36): error C3861: "AfxGetModuleState": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdllx.h(59,3): error C2065: "pModuleState": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdllx.h(59,32): error C2065: "pModuleState": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdllx.h(60,3): error C2065: "pModuleState": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdllx.h(60,34): error C2065: "pModuleState": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdllx.h(61,3): error C2065: "pModuleState": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdllx.h(62,3): error C2065: "pModuleState": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(46,30): error C3646: "m_module": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(46,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(79,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(80,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(81,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(82,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(83,5): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(98,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(99,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(104,13): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(104,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(105,42): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(105,19): error C3861: "AfxInitExtensionModule": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(109,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(110,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(112,38): error C2039: "AfxGetResourceHandle" ist kein Member von "`global namespace'".
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(112,38): error C3861: "AfxGetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(115,22): error C2039: "m_module" ist kein Member von "CAcExtensionModule".
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(36,7):
+      Siehe Deklaration von "CAcExtensionModule"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(115,9): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(116,22): error C2039: "m_module" ist kein Member von "CAcExtensionModule".
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(36,7):
+      Siehe Deklaration von "CAcExtensionModule"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(116,9): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(117,15): error C2039: "m_module" ist kein Member von "CAcExtensionModule".
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(36,7):
+      Siehe Deklaration von "CAcExtensionModule"
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(118,13): error C2061: Syntaxfehler: Bezeichner "CDynLinkLibrary"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(133,32): error C2065: "m_module": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(133,9): error C3861: "AfxTermExtensionModule": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(196,34): error C3861: "AfxGetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(200,5): error C3861: "AfxSetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(205,5): error C3861: "ASSERT": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\AcExtensionModule.h(206,5): error C3861: "AfxSetResourceHandle": Bezeichner wurde nicht gefunden.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(45,23): error C2061: Syntaxfehler: Bezeichner "CString"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(48,41): error C2065: "CWnd": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(48,47): error C2065: "dlg": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(48,52): error C2065: "CFont": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(48,59): error C2065: "font": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(48,16): error C2182: "AdUiSubstituteShellFont": Diese Verwendung von "void" ist ungültig
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(56,15): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(56,11): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(56,17): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(179,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(179,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(179,18): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(262,49): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(369,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(369,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(369,18): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(370,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(370,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(370,27): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(404,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(404,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxstat_.h(404,18): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxctrlcontainer.h(29,23): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxctrlcontainer.h(37,51): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxctrlcontainer.h(46,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxctrlcontainer.h(46,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxctrlcontainer.h(46,14): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxctrlcontainer.h(54,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxctrlcontainer.h(54,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxctrlcontainer.h(54,47): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxctrlcontainer.h(55,28): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\iphlpapi.h(1212,18): error C2143: Syntaxfehler: Es fehlt ")" vor "Konstante"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\iphlpapi.h(1212,18): error C2143: Syntaxfehler: Es fehlt ";" vor "Konstante"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\iphlpapi.h(1212,18): error C2059: Syntaxfehler: "Konstante"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\iphlpapi.h(1213,5): error C2059: Syntaxfehler: ")"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxanimationcontroller.h(2140,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxanimationcontroller.h(2140,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxanimationcontroller.h(2140,21): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxanimationcontroller.h(2337,21): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxanimationcontroller.h(2339,3): error C2065: "m_pRelatedWnd": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxanimationcontroller.h(2339,19): error C2065: "pWnd": nichtdeklarierter Bezeichner
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(571,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(571,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(571,25): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(725,25): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(997,20): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1020,21): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1041,21): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1121,31): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1122,31): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1164,7): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1165,52): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1295,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1295,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1295,17): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1302,16): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxdd_.h(75,55): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1909,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1909,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(1909,16): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4864,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4864,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4864,18): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4865,6): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4865,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4865,20): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4902,14): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4902,10): error C2433: "CWinThread::CWnd": "virtual" bei der Deklaration von Daten nicht zulässig
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4902,10): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4902,28): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4972,5): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4972,1): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4972,1): error C2086: "int CWnd": Neudefinition
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(56,11):
+      Siehe Deklaration von "CWnd"
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(4972,14): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(5616,28): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin.h(5623,32): error C2061: Syntaxfehler: Bezeichner "CWnd"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin1.inl(32,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin1.inl(32,16): error C7525: Inlinevariablen erfordern mindestens "/std:c++17".
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin1.inl(32,16): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin1.inl(32,16): error C2086: "int CWnd": Neudefinition
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+      C:\Users\miste\Downloads\autocad sdk\CDROM1\inc\adui.h(56,11):
+      Siehe Deklaration von "CWnd"
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\atlmfc\include\afxwin1.inl(32,16): error C1003: Mehr als 100 Fehler gefunden; Kompilierung wird abgebrochen.
+  (Quelldatei „SimpleToolPalette.cpp“ wird kompiliert)
+  
   StdAfx.cpp
   Code wird generiert...
